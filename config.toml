@@ -1,6 +1,7 @@
 theme = "ananke"
 publishDir = "docs"
-languages:
-  en:
-    baseURL: http://leonmak.me/dealbasin-info.github.io/
 
+
+[languages]
+  [languages.en]
+    baseURL = "http://leonmak.me/dealbasin-info.github.io/"
