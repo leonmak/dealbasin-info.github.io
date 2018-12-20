@@ -2,6 +2,6 @@ theme = "ananke"
 publishDir = "docs"
 title = "Deal Basin"
 
-#[languages]
-#  [languages.en]
-#    baseURL = "http://leonmak.me/dealbasin-info.github.io/"
+[languages]
+  [languages.en]
+    baseURL = "http://leonmak.me/dealbasin-info.github.io/"
